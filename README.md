@@ -39,7 +39,7 @@ I'm dedicated to carrying out projects and collaboration as a team to obtain a m
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gleguizamon&theme=dark" alt="gleguizamon" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gleguizamon&layout=compact&theme=dracula" alt="gleguizamon" />
 </p>
